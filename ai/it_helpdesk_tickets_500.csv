@@ -1,0 +1,501 @@
+ticket_id,description,category,priority
+1,WiFi disconnects intermittently.,Network,Low
+2,System slows down after installing new software.,Software,High
+3,Password reset not working.,Account Access,Medium
+4,Software update fails repeatedly.,Software,High
+5,System slows down after installing new software.,Software,Critical
+6,Network speed extremely slow.,Network,Low
+7,Computer won't boot after shutdown.,Hardware,Low
+8,Ethernet connection not detected.,Network,Medium
+9,Software update fails repeatedly.,Software,Low
+10,Two-factor authentication fails.,Account Access,High
+11,Two-factor authentication fails.,Account Access,Low
+12,Program freezes when saving a file.,Software,Low
+13,Laptop overheats and shuts down.,Hardware,Medium
+14,Two-factor authentication fails.,Account Access,Low
+15,WiFi disconnects intermittently.,Network,Medium
+16,Cannot connect to VPN.,Network,Medium
+17,Cannot connect to VPN.,Network,High
+18,User locked out of account.,Account Access,High
+19,Computer won't boot after shutdown.,Hardware,High
+20,User locked out of account.,Account Access,High
+21,User locked out of account.,Account Access,High
+22,Error message appears during login.,Software,Medium
+23,Password reset not working.,Account Access,Medium
+24,Laptop overheats and shuts down.,Hardware,Low
+25,System slows down after installing new software.,Software,Critical
+26,Cannot connect to VPN.,Network,Medium
+27,Monitor displays flickering lines.,Hardware,Low
+28,Account login loops back to sign-in page.,Account Access,Low
+29,Password reset not working.,Account Access,Medium
+30,Account login loops back to sign-in page.,Account Access,Medium
+31,Permission denied when accessing shared folder.,Account Access,Low
+32,WiFi disconnects intermittently.,Network,Medium
+33,System slows down after installing new software.,Software,Low
+34,Ethernet connection not detected.,Network,Low
+35,Permission denied when accessing shared folder.,Account Access,Medium
+36,Mouse disconnects randomly.,Hardware,Low
+37,Error message appears during login.,Software,Medium
+38,Monitor displays flickering lines.,Hardware,Medium
+39,Program freezes when saving a file.,Software,High
+40,Laptop overheats and shuts down.,Hardware,Medium
+41,Program freezes when saving a file.,Software,High
+42,Two-factor authentication fails.,Account Access,Low
+43,Account login loops back to sign-in page.,Account Access,High
+44,Laptop overheats and shuts down.,Hardware,Low
+45,Permission denied when accessing shared folder.,Account Access,High
+46,Permission denied when accessing shared folder.,Account Access,High
+47,System slows down after installing new software.,Software,Low
+48,Ethernet connection not detected.,Network,Low
+49,Two-factor authentication fails.,Account Access,Low
+50,Program freezes when saving a file.,Software,Low
+51,Error message appears during login.,Software,Low
+52,WiFi disconnects intermittently.,Network,Low
+53,User locked out of account.,Account Access,Medium
+54,Laptop overheats and shuts down.,Hardware,Low
+55,Two-factor authentication fails.,Account Access,Low
+56,Keyboard keys not responding.,Hardware,Critical
+57,User locked out of account.,Account Access,Low
+58,Password reset not working.,Account Access,Medium
+59,Frequent packet loss during calls.,Network,High
+60,Cannot connect to VPN.,Network,Low
+61,Two-factor authentication fails.,Account Access,Medium
+62,Two-factor authentication fails.,Account Access,Critical
+63,Password reset not working.,Account Access,Medium
+64,Computer won't boot after shutdown.,Hardware,Low
+65,Keyboard keys not responding.,Hardware,Low
+66,Cannot connect to VPN.,Network,Low
+67,Permission denied when accessing shared folder.,Account Access,Medium
+68,Laptop overheats and shuts down.,Hardware,Low
+69,Program freezes when saving a file.,Software,Low
+70,Application crashes when launching.,Software,High
+71,Error message appears during login.,Software,Low
+72,Permission denied when accessing shared folder.,Account Access,Low
+73,Software update fails repeatedly.,Software,High
+74,Mouse disconnects randomly.,Hardware,Medium
+75,Two-factor authentication fails.,Account Access,Medium
+76,System slows down after installing new software.,Software,Low
+77,Two-factor authentication fails.,Account Access,High
+78,WiFi disconnects intermittently.,Network,Low
+79,Program freezes when saving a file.,Software,Low
+80,Application crashes when launching.,Software,High
+81,Computer won't boot after shutdown.,Hardware,High
+82,Two-factor authentication fails.,Account Access,Low
+83,Network speed extremely slow.,Network,Medium
+84,Software update fails repeatedly.,Software,Critical
+85,Mouse disconnects randomly.,Hardware,Medium
+86,Computer won't boot after shutdown.,Hardware,Low
+87,WiFi disconnects intermittently.,Network,Low
+88,Password reset not working.,Account Access,Medium
+89,Application crashes when launching.,Software,Low
+90,Error message appears during login.,Software,Medium
+91,Two-factor authentication fails.,Account Access,Low
+92,Laptop overheats and shuts down.,Hardware,High
+93,Software update fails repeatedly.,Software,Medium
+94,Computer won't boot after shutdown.,Hardware,Critical
+95,Network speed extremely slow.,Network,Low
+96,Network speed extremely slow.,Network,Medium
+97,Application crashes when launching.,Software,Low
+98,Password reset not working.,Account Access,Low
+99,Program freezes when saving a file.,Software,High
+100,Program freezes when saving a file.,Software,Critical
+101,Cannot connect to VPN.,Network,Medium
+102,User locked out of account.,Account Access,Medium
+103,Application crashes when launching.,Software,Low
+104,Permission denied when accessing shared folder.,Account Access,Medium
+105,Software update fails repeatedly.,Software,Medium
+106,System slows down after installing new software.,Software,Medium
+107,Account login loops back to sign-in page.,Account Access,Medium
+108,Network speed extremely slow.,Network,Low
+109,Keyboard keys not responding.,Hardware,Low
+110,Password reset not working.,Account Access,High
+111,Ethernet connection not detected.,Network,Low
+112,Frequent packet loss during calls.,Network,Medium
+113,Keyboard keys not responding.,Hardware,Medium
+114,Program freezes when saving a file.,Software,Low
+115,Monitor displays flickering lines.,Hardware,Medium
+116,User locked out of account.,Account Access,High
+117,Computer won't boot after shutdown.,Hardware,Low
+118,System slows down after installing new software.,Software,High
+119,Software update fails repeatedly.,Software,Low
+120,Application crashes when launching.,Software,Critical
+121,User locked out of account.,Account Access,Medium
+122,Account login loops back to sign-in page.,Account Access,Low
+123,Network speed extremely slow.,Network,Low
+124,Cannot connect to VPN.,Network,Low
+125,Software update fails repeatedly.,Software,Low
+126,System slows down after installing new software.,Software,Medium
+127,Cannot connect to VPN.,Network,High
+128,Software update fails repeatedly.,Software,Low
+129,Network speed extremely slow.,Network,High
+130,Cannot connect to VPN.,Network,Low
+131,Software update fails repeatedly.,Software,High
+132,Error message appears during login.,Software,Low
+133,WiFi disconnects intermittently.,Network,Critical
+134,Permission denied when accessing shared folder.,Account Access,Medium
+135,Account login loops back to sign-in page.,Account Access,High
+136,Cannot connect to VPN.,Network,Low
+137,Frequent packet loss during calls.,Network,High
+138,Program freezes when saving a file.,Software,Critical
+139,Software update fails repeatedly.,Software,High
+140,Cannot connect to VPN.,Network,Low
+141,Keyboard keys not responding.,Hardware,High
+142,Cannot connect to VPN.,Network,Low
+143,Cannot connect to VPN.,Network,Medium
+144,Account login loops back to sign-in page.,Account Access,Medium
+145,Program freezes when saving a file.,Software,Low
+146,Ethernet connection not detected.,Network,Critical
+147,Mouse disconnects randomly.,Hardware,Medium
+148,System slows down after installing new software.,Software,Medium
+149,Monitor displays flickering lines.,Hardware,Medium
+150,Computer won't boot after shutdown.,Hardware,Low
+151,Two-factor authentication fails.,Account Access,High
+152,Keyboard keys not responding.,Hardware,High
+153,Monitor displays flickering lines.,Hardware,Low
+154,Keyboard keys not responding.,Hardware,Medium
+155,Frequent packet loss during calls.,Network,Medium
+156,Computer won't boot after shutdown.,Hardware,Low
+157,Permission denied when accessing shared folder.,Account Access,Low
+158,Laptop overheats and shuts down.,Hardware,Low
+159,Two-factor authentication fails.,Account Access,High
+160,Mouse disconnects randomly.,Hardware,Low
+161,User locked out of account.,Account Access,Critical
+162,WiFi disconnects intermittently.,Network,High
+163,Frequent packet loss during calls.,Network,Low
+164,WiFi disconnects intermittently.,Network,Critical
+165,Mouse disconnects randomly.,Hardware,Critical
+166,Account login loops back to sign-in page.,Account Access,Low
+167,Password reset not working.,Account Access,Medium
+168,Cannot connect to VPN.,Network,Medium
+169,Password reset not working.,Account Access,Critical
+170,Mouse disconnects randomly.,Hardware,High
+171,System slows down after installing new software.,Software,High
+172,WiFi disconnects intermittently.,Network,Low
+173,System slows down after installing new software.,Software,Low
+174,Mouse disconnects randomly.,Hardware,Critical
+175,Two-factor authentication fails.,Account Access,Low
+176,Network speed extremely slow.,Network,Low
+177,User locked out of account.,Account Access,High
+178,Ethernet connection not detected.,Network,Low
+179,Program freezes when saving a file.,Software,High
+180,Password reset not working.,Account Access,Critical
+181,Two-factor authentication fails.,Account Access,Low
+182,Two-factor authentication fails.,Account Access,Low
+183,Account login loops back to sign-in page.,Account Access,Low
+184,Frequent packet loss during calls.,Network,Low
+185,Error message appears during login.,Software,Low
+186,Account login loops back to sign-in page.,Account Access,High
+187,Computer won't boot after shutdown.,Hardware,Medium
+188,Application crashes when launching.,Software,Low
+189,Computer won't boot after shutdown.,Hardware,Medium
+190,Laptop overheats and shuts down.,Hardware,Medium
+191,System slows down after installing new software.,Software,Critical
+192,Password reset not working.,Account Access,Low
+193,Keyboard keys not responding.,Hardware,High
+194,Application crashes when launching.,Software,High
+195,Account login loops back to sign-in page.,Account Access,Low
+196,Error message appears during login.,Software,High
+197,Password reset not working.,Account Access,Medium
+198,Mouse disconnects randomly.,Hardware,High
+199,Program freezes when saving a file.,Software,Medium
+200,Permission denied when accessing shared folder.,Account Access,High
+201,Password reset not working.,Account Access,Low
+202,WiFi disconnects intermittently.,Network,High
+203,Password reset not working.,Account Access,Low
+204,Mouse disconnects randomly.,Hardware,Medium
+205,WiFi disconnects intermittently.,Network,Medium
+206,Ethernet connection not detected.,Network,High
+207,Mouse disconnects randomly.,Hardware,High
+208,Laptop overheats and shuts down.,Hardware,Medium
+209,Application crashes when launching.,Software,High
+210,Permission denied when accessing shared folder.,Account Access,Medium
+211,Mouse disconnects randomly.,Hardware,High
+212,Application crashes when launching.,Software,High
+213,Computer won't boot after shutdown.,Hardware,Critical
+214,Application crashes when launching.,Software,Low
+215,Cannot connect to VPN.,Network,Medium
+216,Laptop overheats and shuts down.,Hardware,High
+217,Network speed extremely slow.,Network,Critical
+218,Error message appears during login.,Software,Low
+219,Error message appears during login.,Software,Low
+220,Error message appears during login.,Software,High
+221,Computer won't boot after shutdown.,Hardware,Low
+222,Frequent packet loss during calls.,Network,Low
+223,Permission denied when accessing shared folder.,Account Access,Low
+224,Password reset not working.,Account Access,High
+225,Ethernet connection not detected.,Network,Medium
+226,System slows down after installing new software.,Software,Medium
+227,User locked out of account.,Account Access,Low
+228,Error message appears during login.,Software,Medium
+229,System slows down after installing new software.,Software,Critical
+230,Mouse disconnects randomly.,Hardware,Medium
+231,Application crashes when launching.,Software,Critical
+232,Monitor displays flickering lines.,Hardware,Low
+233,Ethernet connection not detected.,Network,Critical
+234,WiFi disconnects intermittently.,Network,Medium
+235,Ethernet connection not detected.,Network,Low
+236,Permission denied when accessing shared folder.,Account Access,Medium
+237,Permission denied when accessing shared folder.,Account Access,High
+238,Program freezes when saving a file.,Software,Low
+239,Ethernet connection not detected.,Network,High
+240,Software update fails repeatedly.,Software,High
+241,Keyboard keys not responding.,Hardware,Medium
+242,Monitor displays flickering lines.,Hardware,Critical
+243,Frequent packet loss during calls.,Network,High
+244,Permission denied when accessing shared folder.,Account Access,Low
+245,User locked out of account.,Account Access,Medium
+246,Two-factor authentication fails.,Account Access,Low
+247,Cannot connect to VPN.,Network,Low
+248,Keyboard keys not responding.,Hardware,Low
+249,Two-factor authentication fails.,Account Access,Medium
+250,Password reset not working.,Account Access,Medium
+251,Account login loops back to sign-in page.,Account Access,Low
+252,WiFi disconnects intermittently.,Network,Low
+253,Computer won't boot after shutdown.,Hardware,Medium
+254,Program freezes when saving a file.,Software,Medium
+255,Ethernet connection not detected.,Network,Medium
+256,Account login loops back to sign-in page.,Account Access,Low
+257,Monitor displays flickering lines.,Hardware,Medium
+258,Two-factor authentication fails.,Account Access,Medium
+259,Cannot connect to VPN.,Network,Low
+260,Software update fails repeatedly.,Software,Medium
+261,Keyboard keys not responding.,Hardware,Medium
+262,Password reset not working.,Account Access,Low
+263,Laptop overheats and shuts down.,Hardware,Medium
+264,Monitor displays flickering lines.,Hardware,Critical
+265,Account login loops back to sign-in page.,Account Access,Low
+266,Computer won't boot after shutdown.,Hardware,Low
+267,Computer won't boot after shutdown.,Hardware,Low
+268,Mouse disconnects randomly.,Hardware,High
+269,Cannot connect to VPN.,Network,Medium
+270,WiFi disconnects intermittently.,Network,Low
+271,Network speed extremely slow.,Network,Medium
+272,Permission denied when accessing shared folder.,Account Access,High
+273,Keyboard keys not responding.,Hardware,Critical
+274,Cannot connect to VPN.,Network,Low
+275,Monitor displays flickering lines.,Hardware,Medium
+276,Application crashes when launching.,Software,High
+277,Mouse disconnects randomly.,Hardware,Low
+278,Monitor displays flickering lines.,Hardware,Low
+279,Keyboard keys not responding.,Hardware,Low
+280,Network speed extremely slow.,Network,Low
+281,Computer won't boot after shutdown.,Hardware,High
+282,Keyboard keys not responding.,Hardware,Medium
+283,Frequent packet loss during calls.,Network,High
+284,Application crashes when launching.,Software,Medium
+285,Two-factor authentication fails.,Account Access,Medium
+286,Program freezes when saving a file.,Software,Medium
+287,Frequent packet loss during calls.,Network,High
+288,Laptop overheats and shuts down.,Hardware,High
+289,Program freezes when saving a file.,Software,Low
+290,Account login loops back to sign-in page.,Account Access,Medium
+291,Application crashes when launching.,Software,Critical
+292,Laptop overheats and shuts down.,Hardware,Low
+293,Cannot connect to VPN.,Network,Medium
+294,Two-factor authentication fails.,Account Access,Low
+295,Frequent packet loss during calls.,Network,Low
+296,Application crashes when launching.,Software,Low
+297,Two-factor authentication fails.,Account Access,Medium
+298,Keyboard keys not responding.,Hardware,High
+299,Software update fails repeatedly.,Software,Medium
+300,Monitor displays flickering lines.,Hardware,Medium
+301,Monitor displays flickering lines.,Hardware,High
+302,Computer won't boot after shutdown.,Hardware,Low
+303,User locked out of account.,Account Access,Low
+304,Permission denied when accessing shared folder.,Account Access,Low
+305,Application crashes when launching.,Software,Critical
+306,Frequent packet loss during calls.,Network,Critical
+307,Permission denied when accessing shared folder.,Account Access,Low
+308,Error message appears during login.,Software,Critical
+309,System slows down after installing new software.,Software,Medium
+310,Network speed extremely slow.,Network,Critical
+311,Monitor displays flickering lines.,Hardware,High
+312,Keyboard keys not responding.,Hardware,High
+313,Monitor displays flickering lines.,Hardware,High
+314,Mouse disconnects randomly.,Hardware,Medium
+315,Account login loops back to sign-in page.,Account Access,Low
+316,Two-factor authentication fails.,Account Access,Low
+317,User locked out of account.,Account Access,Medium
+318,Frequent packet loss during calls.,Network,Medium
+319,Application crashes when launching.,Software,Low
+320,Ethernet connection not detected.,Network,Critical
+321,Permission denied when accessing shared folder.,Account Access,Medium
+322,Program freezes when saving a file.,Software,Critical
+323,Two-factor authentication fails.,Account Access,Medium
+324,Two-factor authentication fails.,Account Access,Low
+325,WiFi disconnects intermittently.,Network,High
+326,Software update fails repeatedly.,Software,Medium
+327,Keyboard keys not responding.,Hardware,Medium
+328,WiFi disconnects intermittently.,Network,High
+329,Mouse disconnects randomly.,Hardware,Critical
+330,Laptop overheats and shuts down.,Hardware,Medium
+331,Program freezes when saving a file.,Software,Medium
+332,Account login loops back to sign-in page.,Account Access,Low
+333,Keyboard keys not responding.,Hardware,Low
+334,Monitor displays flickering lines.,Hardware,Low
+335,Password reset not working.,Account Access,Medium
+336,Two-factor authentication fails.,Account Access,Low
+337,Keyboard keys not responding.,Hardware,Low
+338,User locked out of account.,Account Access,Low
+339,Cannot connect to VPN.,Network,Low
+340,Application crashes when launching.,Software,Medium
+341,Network speed extremely slow.,Network,Critical
+342,Ethernet connection not detected.,Network,Medium
+343,Computer won't boot after shutdown.,Hardware,Medium
+344,System slows down after installing new software.,Software,Medium
+345,Application crashes when launching.,Software,Low
+346,Application crashes when launching.,Software,Low
+347,Frequent packet loss during calls.,Network,Medium
+348,WiFi disconnects intermittently.,Network,Medium
+349,Network speed extremely slow.,Network,Low
+350,Program freezes when saving a file.,Software,High
+351,Laptop overheats and shuts down.,Hardware,Critical
+352,User locked out of account.,Account Access,Medium
+353,Cannot connect to VPN.,Network,Low
+354,Frequent packet loss during calls.,Network,Low
+355,Frequent packet loss during calls.,Network,Medium
+356,Software update fails repeatedly.,Software,Medium
+357,Monitor displays flickering lines.,Hardware,Medium
+358,Frequent packet loss during calls.,Network,Low
+359,User locked out of account.,Account Access,Medium
+360,Two-factor authentication fails.,Account Access,Medium
+361,Mouse disconnects randomly.,Hardware,Medium
+362,Network speed extremely slow.,Network,High
+363,Two-factor authentication fails.,Account Access,Low
+364,Software update fails repeatedly.,Software,High
+365,Account login loops back to sign-in page.,Account Access,High
+366,Network speed extremely slow.,Network,Low
+367,Permission denied when accessing shared folder.,Account Access,Medium
+368,Laptop overheats and shuts down.,Hardware,Medium
+369,WiFi disconnects intermittently.,Network,Low
+370,Program freezes when saving a file.,Software,Low
+371,Monitor displays flickering lines.,Hardware,Medium
+372,Laptop overheats and shuts down.,Hardware,Low
+373,Error message appears during login.,Software,Critical
+374,Mouse disconnects randomly.,Hardware,Low
+375,Application crashes when launching.,Software,Low
+376,Laptop overheats and shuts down.,Hardware,Critical
+377,Two-factor authentication fails.,Account Access,Low
+378,Laptop overheats and shuts down.,Hardware,Medium
+379,Error message appears during login.,Software,Low
+380,Monitor displays flickering lines.,Hardware,Medium
+381,Two-factor authentication fails.,Account Access,High
+382,Ethernet connection not detected.,Network,Low
+383,Password reset not working.,Account Access,High
+384,Program freezes when saving a file.,Software,Critical
+385,Password reset not working.,Account Access,Critical
+386,System slows down after installing new software.,Software,Critical
+387,Cannot connect to VPN.,Network,Low
+388,Ethernet connection not detected.,Network,Low
+389,Cannot connect to VPN.,Network,Low
+390,Account login loops back to sign-in page.,Account Access,Critical
+391,Monitor displays flickering lines.,Hardware,High
+392,System slows down after installing new software.,Software,High
+393,Permission denied when accessing shared folder.,Account Access,Low
+394,Program freezes when saving a file.,Software,Low
+395,Frequent packet loss during calls.,Network,High
+396,System slows down after installing new software.,Software,Low
+397,Application crashes when launching.,Software,Low
+398,Frequent packet loss during calls.,Network,High
+399,Two-factor authentication fails.,Account Access,Low
+400,Cannot connect to VPN.,Network,Low
+401,User locked out of account.,Account Access,Medium
+402,Computer won't boot after shutdown.,Hardware,Low
+403,Ethernet connection not detected.,Network,High
+404,Software update fails repeatedly.,Software,Low
+405,System slows down after installing new software.,Software,High
+406,Mouse disconnects randomly.,Hardware,Low
+407,Software update fails repeatedly.,Software,High
+408,Two-factor authentication fails.,Account Access,Low
+409,Program freezes when saving a file.,Software,Low
+410,Cannot connect to VPN.,Network,Low
+411,System slows down after installing new software.,Software,Low
+412,Cannot connect to VPN.,Network,Medium
+413,Two-factor authentication fails.,Account Access,Medium
+414,Computer won't boot after shutdown.,Hardware,Medium
+415,Software update fails repeatedly.,Software,Critical
+416,Computer won't boot after shutdown.,Hardware,Low
+417,Keyboard keys not responding.,Hardware,Medium
+418,Two-factor authentication fails.,Account Access,High
+419,Mouse disconnects randomly.,Hardware,Low
+420,Ethernet connection not detected.,Network,High
+421,Password reset not working.,Account Access,High
+422,Mouse disconnects randomly.,Hardware,Low
+423,Frequent packet loss during calls.,Network,High
+424,WiFi disconnects intermittently.,Network,Critical
+425,Monitor displays flickering lines.,Hardware,Critical
+426,Mouse disconnects randomly.,Hardware,Medium
+427,Frequent packet loss during calls.,Network,Low
+428,Program freezes when saving a file.,Software,Medium
+429,Network speed extremely slow.,Network,Medium
+430,System slows down after installing new software.,Software,High
+431,Computer won't boot after shutdown.,Hardware,Medium
+432,System slows down after installing new software.,Software,High
+433,Program freezes when saving a file.,Software,Medium
+434,Password reset not working.,Account Access,Medium
+435,Monitor displays flickering lines.,Hardware,High
+436,Mouse disconnects randomly.,Hardware,High
+437,Computer won't boot after shutdown.,Hardware,Low
+438,Laptop overheats and shuts down.,Hardware,High
+439,Program freezes when saving a file.,Software,Low
+440,Frequent packet loss during calls.,Network,Medium
+441,Two-factor authentication fails.,Account Access,Low
+442,Password reset not working.,Account Access,High
+443,WiFi disconnects intermittently.,Network,Critical
+444,WiFi disconnects intermittently.,Network,Medium
+445,Permission denied when accessing shared folder.,Account Access,High
+446,Password reset not working.,Account Access,Medium
+447,Cannot connect to VPN.,Network,Medium
+448,Password reset not working.,Account Access,Medium
+449,Permission denied when accessing shared folder.,Account Access,Low
+450,Program freezes when saving a file.,Software,Medium
+451,Network speed extremely slow.,Network,High
+452,Frequent packet loss during calls.,Network,Critical
+453,Program freezes when saving a file.,Software,High
+454,Program freezes when saving a file.,Software,Medium
+455,Two-factor authentication fails.,Account Access,Medium
+456,Program freezes when saving a file.,Software,High
+457,Permission denied when accessing shared folder.,Account Access,High
+458,Keyboard keys not responding.,Hardware,High
+459,Two-factor authentication fails.,Account Access,High
+460,Network speed extremely slow.,Network,Low
+461,Frequent packet loss during calls.,Network,Low
+462,Permission denied when accessing shared folder.,Account Access,Low
+463,Computer won't boot after shutdown.,Hardware,Critical
+464,System slows down after installing new software.,Software,Low
+465,Mouse disconnects randomly.,Hardware,High
+466,WiFi disconnects intermittently.,Network,Critical
+467,Computer won't boot after shutdown.,Hardware,Medium
+468,Error message appears during login.,Software,Medium
+469,Cannot connect to VPN.,Network,High
+470,Monitor displays flickering lines.,Hardware,Medium
+471,Password reset not working.,Account Access,Critical
+472,Computer won't boot after shutdown.,Hardware,Critical
+473,Laptop overheats and shuts down.,Hardware,Critical
+474,Ethernet connection not detected.,Network,Medium
+475,Laptop overheats and shuts down.,Hardware,High
+476,Permission denied when accessing shared folder.,Account Access,Low
+477,Application crashes when launching.,Software,High
+478,Mouse disconnects randomly.,Hardware,Medium
+479,Cannot connect to VPN.,Network,High
+480,Mouse disconnects randomly.,Hardware,Low
+481,System slows down after installing new software.,Software,Low
+482,User locked out of account.,Account Access,Medium
+483,Account login loops back to sign-in page.,Account Access,Medium
+484,Two-factor authentication fails.,Account Access,Low
+485,Laptop overheats and shuts down.,Hardware,Medium
+486,Cannot connect to VPN.,Network,High
+487,Application crashes when launching.,Software,Medium
+488,Computer won't boot after shutdown.,Hardware,Low
+489,Password reset not working.,Account Access,Medium
+490,Network speed extremely slow.,Network,Critical
+491,Password reset not working.,Account Access,Low
+492,Software update fails repeatedly.,Software,Low
+493,Frequent packet loss during calls.,Network,Medium
+494,Program freezes when saving a file.,Software,Low
+495,Monitor displays flickering lines.,Hardware,High
+496,Laptop overheats and shuts down.,Hardware,Low
+497,WiFi disconnects intermittently.,Network,High
+498,Monitor displays flickering lines.,Hardware,Low
+499,Two-factor authentication fails.,Account Access,Low
+500,WiFi disconnects intermittently.,Network,Low
